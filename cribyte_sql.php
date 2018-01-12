@@ -1,7 +1,7 @@
 <?php
 //-------------------------------------------
 //-------------------------------------------
-//(C) Cribyte Development - Model Class 2016
+//(C) Cribyte Development - Model Class 2018
 //[Version: 1.0] 
 //[Author: Kristian Batalo]
 //[Information: dev.cribyte.com]
